@@ -1,0 +1,9 @@
+{
+  "name": "vangularjs-meetup-february-5-2014",
+  "description": "AngularJS February: Data-Driven Documents and Visualizations with D3 and Angular",
+  "version": "0.0.0",
+  "author": "AngularJS Vancouver <http://www.meetup.com/vanangularJS>",
+  "license": "MIT",
+  "dependencies": {}
+}
+
